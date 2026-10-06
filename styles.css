@@ -20,7 +20,7 @@ nav a:hover{text-decoration:underline}
 .identity{text-align:center}
 .identity p{margin:0}
 .portrait{display:block;width:230px;height:230px;object-fit:cover;object-position:50% 38%;border-radius:8px;margin:0 auto 22px}
-.identity .display-name{font:600 27px/1.3 var(--font);margin:0 0 5px}
+.identity .display-name{font:600 25px/1.3 var(--font);margin:0 0 5px}
 .chinese{display:block;font-size:19px;font-weight:400;margin-top:5px;color:var(--muted)}
 .role{margin-bottom:12px}
 .affiliation{color:var(--ink)}
