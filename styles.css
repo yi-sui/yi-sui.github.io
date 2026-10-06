@@ -36,7 +36,7 @@ nav a:hover{text-decoration:underline}
 .publications h2{margin-bottom:14px}
 .publications h3{margin-top:26px}
 .publications h3:first-of-type{margin-top:0}
-.pub-entry{margin-bottom:20px}
+.pub-entry{margin-bottom:14px}
 .pub-entry:has(.pub-awards){margin-bottom:14px}
 .pub-entry>ul{padding-left:21px;margin:0}
 .pub-entry li{padding-left:2px}
