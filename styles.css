@@ -61,3 +61,5 @@ footer{border-top:1px solid var(--line);padding:20px 0 28px;font-size:14px;color
 
 .profile-links>a:has(.scholar-label){padding:2px 4px}
 .scholar-label{display:block;line-height:1.05}
+
+@media(min-width:621px){.identity{transform:translateX(12px)}}
