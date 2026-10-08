@@ -16,7 +16,7 @@ h3{font-size:16px;margin:0 0 12px}
 nav{display:flex;gap:24px;flex-wrap:wrap}
 nav a{font-size:15px;text-decoration:none;color:var(--muted)}
 nav a:hover{text-decoration:underline}
-.page-layout{display:grid;grid-template-columns:340px minmax(0,1fr);gap:48px;padding:44px 0 48px;align-items:start}
+.page-layout{display:grid;grid-template-columns:340px minmax(0,1fr);gap:48px;padding:44px 0 60px;align-items:start}
 .identity{text-align:center}
 .identity p{margin:0}
 .portrait{display:block;width:230px;height:230px;object-fit:cover;object-position:50% 38%;border-radius:8px;margin:0 auto 16px}
@@ -56,7 +56,7 @@ footer{border-top:1px solid var(--line);padding:20px 0 28px;font-size:14px;color
 .skip:focus{left:20px;top:12px;background:#fff;padding:8px;z-index:2}
 #title-block-header{display:none}
 @media(max-width:900px) and (min-width:621px){.shell{padding:0 28px}.page-layout{grid-template-columns:290px minmax(0,1fr);gap:28px}.role{font-size:15px}}
-@media(max-width:620px){.shell{padding:0 24px}.site-header{flex-wrap:wrap;padding:14px 0}nav{gap:16px}nav a{font-size:14px}.page-layout{display:block;padding:28px 0 42px}.identity{margin-bottom:30px;max-width:340px}.portrait{width:180px;height:180px;margin-bottom:17px}.identity .display-name{font-size:25px}.chinese{display:inline-block;margin:0 0 0 10px;font-size:18px}.role{font-size:15px}.profile-links{margin-top:26px}.bio{margin-bottom:22px}.education{flex-wrap:wrap;gap:3px}.years{width:100%}}
+@media(max-width:620px){.shell{padding:0 24px}.site-header{flex-wrap:wrap;padding:14px 0}nav{gap:16px}nav a{font-size:14px}.page-layout{display:block;padding:28px 0 54px}.identity{margin-bottom:30px;max-width:340px}.portrait{width:180px;height:180px;margin-bottom:17px}.identity .display-name{font-size:25px}.chinese{display:inline-block;margin:0 0 0 10px;font-size:18px}.role{font-size:15px}.profile-links{margin-top:26px}.bio{margin-bottom:22px}.education{flex-wrap:wrap;gap:3px}.years{width:100%}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .profile-links>a:has(.scholar-label){padding:2px 4px}
