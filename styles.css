@@ -42,7 +42,7 @@ nav a:hover{text-decoration:underline}
 .pub-entry li{padding-left:2px}
 .pub-entry li>p{margin:0}
 .pub-entry a{overflow-wrap:anywhere}
-.pub-awards{margin-top:5px;margin-left:22px}
+.pub-awards{margin-top:5px;margin-left:22px;font-size:15px}
 .pub-awards ul{margin:0;padding-left:20px;list-style-type:circle}
 .pub-awards li{margin-bottom:3px}
 .publications .pub-entry:last-child{margin-bottom:0}
