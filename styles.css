@@ -43,7 +43,7 @@ nav a:hover{text-decoration:underline}
 .pub-entry li>p{margin:0}
 .pub-entry a{overflow-wrap:anywhere}
 .pub-awards{margin-top:5px;margin-left:22px}
-.pub-awards ul{margin:0;padding-left:20px}
+.pub-awards ul{margin:0;padding-left:20px;list-style-type:circle}
 .pub-awards li{margin-bottom:3px}
 .publications .pub-entry:last-child{margin-bottom:0}
 .education{display:flex;justify-content:space-between;align-items:flex-start;gap:18px}
