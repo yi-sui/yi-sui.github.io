@@ -64,4 +64,4 @@ footer{border-top:1px solid var(--line);padding:20px 0 28px;font-size:14px;color
 
 @media(min-width:621px){.identity{transform:translateX(4px)}}
 /* Slightly rebalance the desktop profile and biography columns. */
-@media(min-width:901px){.page-layout{grid-template-columns:320px minmax(0,1fr);gap:36px;padding-right:16px}}
+@media(min-width:901px){.page-layout{grid-template-columns:320px minmax(0,1fr);gap:36px;padding-right:16px}.identity{transform:translateX(-6px)}}
