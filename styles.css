@@ -63,5 +63,8 @@ footer{border-top:1px solid var(--line);padding:20px 0 28px;font-size:14px;color
 .scholar-label{display:block;line-height:1.05}
 
 @media(min-width:621px){.identity{transform:translateX(4px)}}
+/* Align the header name and divider with the portrait's left edge. */
+@media(min-width:901px){.site-header{margin-left:35px}}
+@media(min-width:621px) and (max-width:900px){.site-header{margin-left:34px}}
 /* Slightly rebalance the desktop profile and biography columns. */
 @media(min-width:901px){.page-layout{grid-template-columns:300px minmax(0,1fr);gap:32px;padding-right:16px}.identity{transform:translate(0px,4px)}}
