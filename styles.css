@@ -10,7 +10,7 @@ strong{font-weight:600}
 h2,h3{font-family:var(--font);line-height:1.28;font-weight:600}
 h2{font-size:22px;margin:0 0 18px}
 h3{font-size:16px;margin:0 0 12px}
-.shell{max-width:1100px;margin:auto;padding:0 46px}
+.shell{max-width:1140px;margin:auto;padding:0 46px}
 .site-header{display:flex;justify-content:space-between;align-items:center;gap:20px;padding:16px 0;border-bottom:1px solid var(--line)}
 .wordmark{font-size:16px;font-weight:600;text-decoration:none;color:var(--ink)}
 nav{display:flex;gap:24px;flex-wrap:wrap}
@@ -67,4 +67,4 @@ footer{border-top:1px solid var(--line);padding:20px 0 28px;font-size:14px;color
 @media(min-width:901px){.site-header{margin-left:35px}}
 @media(min-width:621px) and (max-width:900px){.site-header{margin-left:34px}}
 /* Slightly rebalance the desktop profile and biography columns. */
-@media(min-width:901px){.page-layout{grid-template-columns:300px minmax(0,1fr);gap:32px;padding-right:16px}.identity{transform:translate(0px,4px)}}
+@media(min-width:901px){.page-layout{grid-template-columns:300px minmax(0,1fr);gap:32px}.identity{transform:translate(0px,4px)}}
